@@ -3,11 +3,11 @@
 
 <p align='center'>
   <a target='_blank' rel='noopener noreferrer' href='#'>
-    <img src='/utils/images/logo.svg' alt='AMAUI logo' />
+    <img src='/utils/images/logo.svg' alt='amaui logo' />
   </a>
 </p>
 
-<h3 align='center'>AMAUI</h3>
+<h3 align='center'>amaui</h3>
 
 <h3 align='center'>🪴</h3>
 
