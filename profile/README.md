@@ -18,7 +18,9 @@
 <br />
 
 <div align='center'>
-   At the moment I won't put up any open source donation url, I have enough for myself, buy something nice for your mom. Thank you anyways! 😊
+   At the moment I won't put up any open source donation url, <br />
+  I have enough for myself, buy something nice for your mom. <br />
+  Thank you anyways! 😊
 </div>
 
 <br />
