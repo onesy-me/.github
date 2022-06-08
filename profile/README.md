@@ -12,7 +12,7 @@
 <h3 align='center'>🪴</h3>
 
 <div align='center'>
-   MIT / Open source ecosystem of framework agnostic<br /> UI elements and utils, for building quality and production ready,<br /> front end and back end web apps.
+   MIT / Open source ecosystem of framework agnostic<br /> UI elements and utils, for building quality and production ready,<br /> front end and back end web apps
 </div> 
 
 <br />
