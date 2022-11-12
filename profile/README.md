@@ -1,7 +1,3 @@
- 
-<img src='/utils/images/light-small1.png' alt='amaui light' /> 
-
-<img src='/utils/images/dark-small1.png' alt='amaui dark' />
 
 <br />
 
@@ -22,3 +18,7 @@
 <br />
 
 <br />
+
+<img src='/utils/images/light-small1.png' alt='amaui light' /> 
+
+<img src='/utils/images/dark-small1.png' alt='amaui dark' />
