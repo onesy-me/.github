@@ -1,3 +1,9 @@
+ 
+<img src='/utils/images/light-small.png' alt='amaui light' /> 
+
+<img src='/utils/images/dark-small.png' alt='amaui dark' />
+
+<br />
 
 <br />
 
@@ -6,16 +12,6 @@
     <img src='/utils/images/logo.svg' alt='amaui logo' />
   </a>
 </p>
-
-<h3 align='center'>🪴</h3>
-
-<img src='/utils/images/light-small.png' alt='amaui light' /> 
-
-<img src='/utils/images/dark-small.png' alt='amaui dark' />
-
-<br />
-
-<br />
 
 <h3 align='center'>amaui</h3>
 
