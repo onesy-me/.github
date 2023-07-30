@@ -19,6 +19,4 @@
 
 <br />
 
-<img src='/utils/images/light1.png' alt='amaui light' />
-
-<img src='/utils/images/dark1.png' alt='amaui dark' />
+<img src='/utils/images/ui.png' alt='amaui ui' />
