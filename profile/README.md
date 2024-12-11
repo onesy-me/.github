@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<h3 align='center'>onesy</h3>
+<h1 align='center'>onesy</h1>
 
 <div align='center'>
    One platform, multiple tools
