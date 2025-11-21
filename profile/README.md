@@ -8,14 +8,4 @@
   </a>
 </p>
 
-<h3 align='center'>onesy</h3>
-
-<div align='center'>
-   One platform, multiple tools
-</div>
-
-<br />
-
-<br />
-
 <img src='/utils/images/preview.png' alt='onesy preview' />
