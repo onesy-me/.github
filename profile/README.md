@@ -5,6 +5,4 @@
   </a>
 </p>
 
-</br>
-
 <img src='/utils/images/preview.png' alt='onesy preview' />
