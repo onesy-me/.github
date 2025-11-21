@@ -18,4 +18,4 @@
 
 <br />
 
-<img src='/utils/images/ui.png' alt='onesy ui' />
+<img src='/utils/images/preview.png' alt='onesy preview' />
