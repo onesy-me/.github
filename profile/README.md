@@ -5,4 +5,4 @@
   </a>
 </p>
 
-<img src='/utils/images/p.png' alt='onesy preview' />
+<img src='/utils/images/p3.png' alt='onesy preview' />
